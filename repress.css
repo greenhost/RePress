@@ -1,0 +1,17 @@
+#rperror {
+  background: #CC6633;
+  width: 400px;
+}
+
+#rpdomaintable table th {
+  border: 1px solid black;
+}
+
+#rpside {
+  float: right;
+  margin-right: 50%;
+}
+
+#rpundertext {
+  float: bottom;
+}
